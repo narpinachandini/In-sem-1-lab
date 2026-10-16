@@ -1,0 +1,2 @@
+﻿Student results module
+Features: Record marks, calculate grades, and display results.
