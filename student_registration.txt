@@ -1,1 +1,2 @@
 ﻿Student registration module
+Features: Add student name, ID, age, and course details.
